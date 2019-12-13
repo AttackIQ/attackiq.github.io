@@ -16,7 +16,7 @@ To configure AWS Security Hub notifications, follow this procedure:
 ![alt text](./images/aiq_aws_sec_assessments.png)
 
 <ol start="2">
-<li>Click on the <b>Scheduled</b> menu item, then schedule your assessment. The details of how this is donee will not be covered in this guide.</li>
+<li>Click on the <b>Scheduled</b> menu item, then schedule your assessment. The details of how this is done will not be covered in this guide.</li>
 <li>Click on the <b>Notification</b> menu item.</li>
 <li>Click on the <b>Global Config</b> button.</li>
 </ol>
