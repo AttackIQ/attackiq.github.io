@@ -1,7 +1,7 @@
 # AttackIQ Platform
 
 
-![](./images/aws_security_hub.jpg)
+[![](./images/aws_security_hub.jpg)](#)
 
 Don't have AttackIQ? [Learn more](https://go.attackiq.com/BD-AWS-Security-Hub_LP.html)
 
