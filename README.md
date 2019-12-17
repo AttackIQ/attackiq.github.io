@@ -1,4 +1,10 @@
-# AttackIQ Platform AWS Security Hub Notification
+# AttackIQ Platform
+
+
+![alt text](./images/aws_security_hub.jpg)
+
+Don't have AttackIQ? [Learn more](https://go.attackiq.com/BD-AWS-Security-Hub_LP.html)
+
 
 ## Overview
 
