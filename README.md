@@ -1,4 +1,10 @@
-# AttackIQ Platform AWS Security Hub Notification
+# AttackIQ Platform
+
+
+![alt text](./images/aws_security_hub.jpg)
+
+Don't have AttackIQ? [Learn more](https://go.attackiq.com/BD-AWS-Security-Hub_LP.html)
+
 
 ## Overview
 
@@ -10,7 +16,7 @@ This guide will show you how to configure the AWS Security Notification facility
 
 To configure AWS Security Hub notifications, follow this procedure:
 
-<ol start="1"><li>Open your AttackIQ Platform UI then click on the assessment you want o schedule.</li>
+<ol start="1"><li>Open your AttackIQ Platform UI then click on the assessment you want to schedule.</li>
 </ol>
 
 ![alt text](./images/aiq_aws_sec_assessments.png)
