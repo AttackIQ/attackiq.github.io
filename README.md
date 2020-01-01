@@ -70,8 +70,14 @@ To see the your Security Hub notifications:
 
 1. Open your **AWS Management Console**
 2. Click on **Security Hub** in the **Security, Identity, & Compliance** section.
-3. Click on **Findings** in the menu on the left.  Your console will look like the following:
+3. Click on **Findings** in the menu on the left.  
+4. Click on the empty part of the search box.
+5. Select **Severity label** from the menu.
+6. Enter **CRITICAL**.
+7. Click on **Apply**.
+
+You should get findings that look like the following.  
 
 [![](./images/aiq_aws_sec_hub_console.png)](#)
 
-Here you see an example of a test notification.
+In this example both a test notification and a scheduled assessment notification are shown.
