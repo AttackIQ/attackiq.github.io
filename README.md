@@ -19,7 +19,7 @@ To configure AWS Security Hub notifications, follow this procedure:
 <ol start="1"><li>Open your AttackIQ Platform UI then click on the assessment you want to schedule.</li>
 </ol>
 
-[![](./images/aiq_aws_sec_assessments.png)](#)
+[![](./images/aiq_aws_sec_assessments.png)]()
 
 <ol start="2">
 <li>Click on the <b>Scheduled</b> menu item, then schedule your assessment. The details of how this is done will not be covered in this guide.</li>
@@ -34,7 +34,7 @@ To configure AWS Security Hub notifications, follow this procedure:
 </ol>
 
 
-[![](./images/aiq_aws_sec_global_config.png)](#)
+[![](./images/aiq_aws_sec_global_config.png)]()
 
 <ol start="6">
 <li>Enter your <b>AWS Account ID</b></li>
